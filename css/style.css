@@ -92,3 +92,6 @@ section.marign_bet_secti{
 .footer_text p {
     margin: 0;
 }
+h3.section-title {
+    color: white !important;
+}
