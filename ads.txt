@@ -513,3 +513,39 @@ inmobi.com, b4821b1325c44dc581b04d743ca46575, reseller, 83e75a7ae333ca9d
 rubiconproject.com, 11726, reseller, 0bfd66d529a55807
 themediagrid.com, V19ZSB, reseller, 35d5010d7789b49d
 # ExMarketPlace - end
+
+<!-- Orquidea - Anchor -->
+<script src='//tags.orquideassp.com/tag/60001'></script>
+
+<!-- Orquidea - Billboard -->
+<script src='//tags.orquideassp.com/tag/60002'></script>
+
+<!-- Orquidea - Fluid -->
+<script src='//tags.orquideassp.com/tag/60003'></script>
+
+<!-- Orquidea - HalfPage -->
+<script src='//tags.orquideassp.com/tag/60004'></script>
+
+<!-- Orquidea - Interstitial -->
+<script src='//tags.orquideassp.com/tag/60005'></script>
+
+<!-- Orquidea - Leaderboard -->
+<script src='//tags.orquideassp.com/tag/60006'></script>
+
+<!-- Orquidea - MobileBanner -->
+<script src='//tags.orquideassp.com/tag/60007'></script>
+
+<!-- Orquidea - MobileLandscape -->
+<script src='//tags.orquideassp.com/tag/60008'></script>
+
+<!-- Orquidea - Portrait -->
+<script src='//tags.orquideassp.com/tag/60009'></script>
+
+<!-- Orquidea - Push -->
+<script src='//tags.orquideassp.com/tag/60010'></script>
+
+<!-- Orquidea - Rectangle -->
+<script src='//tags.orquideassp.com/tag/60011'></script>
+
+<!-- Orquidea - Skyscraper -->
+<script src='//tags.orquideassp.com/tag/60012'></script>
